@@ -25,6 +25,7 @@ Simplify the upload process. Upload the image & get link to that image instantly
 == Description ==
 
 
+<a href="http://l.themencode.com/quvideo" target="_blank">Overview & Installation Video</a>
 
 Sometimes you need to Upload image or other files & copy link to media file only. In default system of wordpress you'll have to upload the file, go to media page & copy the url. So lengthy .. right ?
 
